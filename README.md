@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and build
 
 ## 🛠️ Tech Stack
 
-- **Languages:** [List of Languages You Use]
+- **Languages:** 
 - **Frameworks/Libraries:** [List of Frameworks or Libraries]
 - **Tools:** [List of Tools You Use]
 
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and build
 ## 🌍 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/somasundar-work/)
-- [Personal Website]([https://yourwebsite.com](https://somasundar-work.github.io)) (under development)
+- [Personal Website](https://somasundar-work.github.io) (under contruction)
 
 ---
 
