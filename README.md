@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 - 🔭 I’m currently working on **multi-tenant SaaS apps and lightweight .NET libraries**
 - 🌱 I’m learning **.NET MAUI, AWS services**
 - 👯 I’m looking to collaborate on **open-source projects, cloud-native tools and projects, and .NET libraries**
-- 💬 Ask me about **.NET, AWS, CI/CD automation, multi-tenant architecture, and microservices**
 - 📫 How to reach me: [Email](mailto:somasundar.work@outlook.com) | [LinkedIn](https://www.linkedin.com/in/somasundar-work/) | [somasundar-work.github.io](https://somasundar-work.github.io)
 
 ---
