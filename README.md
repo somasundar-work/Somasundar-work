@@ -26,10 +26,12 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 
 ## 📦 Projects & Interests
 
-- ✅ [Url Shortener API](https://github.com/somasundar-work/UrlShortenerAPI) Url Shortener API using .NET 8.0, AWS Lambda and AWS DynamoDB
-- ✅ [Soms.Dev.Cryptography](https://github.com/somasundar-work/Soms.Dev.Cryptography) – a simple .NET library project to learn how PBKDF2 and Argon2 Password hashing works and How .NET library are created and deployed to nuget.
-- ✅ [Personal Website](https://somasundar-work.github.io) currently working on my personal website using angular and tailwind css
-- ✅ .NET Learning Projects – Deployment through terraform, Expense Tracker, and more
+- [Url Shortener API](https://github.com/somasundar-work/UrlShortenerAPI) Url Shortener API using .NET 8.0, AWS Lambda and AWS DynamoDB
+- [Soms.Dev.Cryptography](https://github.com/somasundar-work/Soms.Dev.Cryptography) – a simple .NET library project to learn how PBKDF2 and Argon2 Password hashing works and How .NET library are created and deployed to nuget.
+- [Skinet](https://github.com/somasundar-work/Skinet) a learning project to build a simple e-commerce application using .NET and angular and deploy to azure.
+- [Personal Website](https://somasundar-work.github.io) currently working on my personal website using angular and tailwind css
+- [Flash Cards API](https://github.com/somasundar-work/FlashCards) a simple flash card api to learn unit of work repository pattern and specification pattern.
+- .NET Learning Projects – Deployment through terraform, Expense Tracker, and more
 
 ---
 
