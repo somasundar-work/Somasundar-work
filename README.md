@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **multi-tenant SaaS apps and lightweight .NET libraries**
 - 🌱 I’m learning **.NET MAUI, AWS services**
 - 👯 I’m looking to collaborate on **open-source projects, cloud-native tools and projects, and .NET libraries**
 - 📫 How to reach me: [Email](mailto:somasundar.work@outlook.com) | [LinkedIn](https://www.linkedin.com/in/somasundar-work/) | [somasundar-work.github.io](https://somasundar-work.github.io)
@@ -23,23 +22,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 
 ---
 
-## 📦 Projects & Interests
-
-- [Url Shortener API](https://github.com/somasundar-work/UrlShortenerAPI) Url Shortener API using .NET 8.0, AWS Lambda and AWS DynamoDB
-- [Soms.Dev.Cryptography](https://github.com/somasundar-work/Soms.Dev.Cryptography) – a simple .NET library project to learn how PBKDF2 and Argon2 Password hashing works and How .NET library are created and deployed to nuget.
-- [Skinet](https://github.com/somasundar-work/Skinet) a learning project to build a simple e-commerce application using .NET and angular and deploy to azure.
-- [Personal Website](https://somasundar-work.github.io) currently working on my personal website using angular and tailwind css
-- [Flash Cards API](https://github.com/somasundar-work/FlashCards) a simple flash card api to learn unit of work repository pattern and specification pattern.
-- .NET Learning Projects – Deployment through terraform, Expense Tracker, and more
-
----
-
-## 📊 GitHub Stats
-
-![Somasundar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=somasundar-work&show_icons=true&theme=radical)
-
----
-
 ## 🌍 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/somasundar-work/)
@@ -47,4 +29,4 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories, check out my dev experiments, and reach out if you want to collaborate or geek out over code ☕🚀
+Thanks for stopping by! Feel free to explore my repositories.
