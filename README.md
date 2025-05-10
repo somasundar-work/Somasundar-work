@@ -1,31 +1,38 @@
-# Hi there 👋, I'm Somasundar!
-
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a strong focus on building scalable, cloud-native solutions using .NET, Angular, React, and AWS. I enjoy solving real-world problems through thoughtful design, clean code, and automation.
-
----
+### Hi there, I'm Somasundar 👋
+Welcome to my GitHub profile! I'm a passionate software developer with a strong focus on .NET development and cloud technologies such as Azure and AWS. I love building scalable and efficient solutions that leverage the power of cloud computing to solve complex problems.
 
 ## 🚀 About Me
+- 👯 I’m looking to collaborate on projects involving .NET development and cloud technologies.
+- 💬 Ask me about anything related to .NET development, Azure, or AWS. I'm always happy to share my knowledge and experiences.
+    
+## 🔧 Technologies & Tools
 
-- 🌱 I’m learning **.NET MAUI, AWS services**
-- 👯 I’m looking to collaborate on **open-source projects, cloud-native tools and projects, and .NET libraries**
-- 📫 How to reach me: [Email](mailto:somasundar.work@outlook.com) | [LinkedIn](https://www.linkedin.com/in/somasundar-work/) | [somasundar-work.github.io](https://somasundar-work.github.io)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.NET&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
+## 🤝 Connect with Me
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somasundar-work/)
 
-## 🛠️ Tech Stack
+<!--
+**ps-codings/ps-codings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- **Languages:** C#, JavaScript, TypeScript, SQL, HTML, CSS
-- **Frameworks/Libraries:** .NET Core, ASP.NET Core, Angular, React, Dapper, Entity Framework, .NET MAUI
-- **Cloud & Serverless:** AWS (Lambda, API Gateway, DynamoDB, S3, Cognito), Azure, Docker, GitHub Actions
-- **Tools & Platforms:** Git, Octopus Deploy, Redis, MongoDB, PostgreSQL, VS Code, Visual Studio
-- **DevOps & CI/CD:** GitHub Actions, pre-commit hooks, SonarQube
+Here are some ideas to get you started:
 
----
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-## 🌍 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/somasundar-work/)
-- 🌐 [Personal Website](https://somasundar-work.github.io) 
+##
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=somasundar-work&show_icons=true&theme=blue)
 
 ---
 
